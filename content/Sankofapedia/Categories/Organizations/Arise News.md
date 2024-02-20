@@ -1,0 +1,3 @@
+Arise News is a global news channel with a strong focus on Africa. It is operated by Arise Broadcasting Ltd., which is owned by Nigerian media mogul [[Nduka Obaigbena]]. The channel has studios in London, New York City, Johannesburg, Abuja and Lagos. It broadcasts 24 hours a day in English and French.
+
+Arise News was launched in 2013 with the aim of providing a platform for African voices to be heard on the world stage. The channel has since become a respected source of news and analysis on African affairs. It has won numerous awards, including the Royal Television Society's International News Channel of the Year award in 2016.
