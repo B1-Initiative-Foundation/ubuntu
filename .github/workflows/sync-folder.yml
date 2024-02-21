@@ -3,7 +3,7 @@ name: Sync Folder to Another Repository
 on:
   push:
     branches:
-      - main  # Or your default branch
+      - -v  # Or your default branch
 
 jobs:
   file-sync:
