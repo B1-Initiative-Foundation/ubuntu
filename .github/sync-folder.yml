@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Sync Folder
-        uses: BetaHuhn/repo-file-sync-action@latest
+        uses: BetaHuhn/repo-file-sync-action@v1
         with:
           GH_PAT: ${{ secrets.GH_PAT }}
           CONFIG_PATH: .github/sync.yml
