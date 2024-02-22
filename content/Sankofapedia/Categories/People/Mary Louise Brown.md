@@ -14,7 +14,8 @@ March 9, 1927
 [[Washington, D.C.]]
 
 ## Education
-Unknown
+[[Howard University]]
+[[University of Edinburgh]]
 
 ## Spouses Names
 Unknown
@@ -30,5 +31,5 @@ Unknown
 Unknown
 
 ## Affiliated Organizations' Names
-Unknown
+[[Ameri]]
 
