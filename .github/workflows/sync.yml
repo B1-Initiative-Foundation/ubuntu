@@ -1,3 +1,3 @@
-B1-Initiative-Foundation/sankofapedia@-v:  # Replace with "B1-Initiative-Foundation/sankofapedia@main"
+B1-Initiative-Foundation/sankofapedia@v4:  # Replace with "B1-Initiative-Foundation/sankofapedia@main"
   - source: ubuntu/content  # Source folder in the current repo
     dest: sankofapedia/content  # Destination path in the target repo
