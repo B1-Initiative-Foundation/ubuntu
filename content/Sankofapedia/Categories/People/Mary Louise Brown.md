@@ -31,5 +31,5 @@ Unknown
 Unknown
 
 ## Affiliated Organizations' Names
-[[Ameri]]
-
+[[American Medical Women's Association]], [[National American Woman Suffrage Association (NAWSA)]]
+[[NAACP]]
