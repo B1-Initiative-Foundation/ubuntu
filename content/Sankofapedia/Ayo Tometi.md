@@ -25,20 +25,7 @@ Not specifically mentioned in the provided sources
 
 ### Parents Names
 
-Not specifically mentioned in the provided sources, but noted as Nigerian immigrants[
-
-2
-
-
-
-](https://ayotometi.org/biography/)[
-
-5
-
-
-
-](https://www.blackpast.org/african-american-history/tometi-opal-1984/).
-
+Not specifically mentioned in the provided sources, but noted as Nigerian immigrants
 ### Known Affiliates Names
 
 - [[Alicia Garza]],
