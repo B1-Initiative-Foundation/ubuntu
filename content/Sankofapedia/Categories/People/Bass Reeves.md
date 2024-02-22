@@ -2,28 +2,47 @@
 Bass Reeves
 
 ## Date of Birth
-There are conflicting accounts regarding Bass Reeves's birth year and location. Art Burton, in his book "Black Gun, Silver Star," suggests that Reeves was born in Crawford County, Arkansas, in 1838. Other accounts suggest his birth year as 1840 in either Grayson County or Lamar County, Texas, while another mentions Lamar County but lists the year as 1824.
+July 1838 (enslaved)
 
 ## Place of Birth
-[[Crawford County]], [[Arkansas]], [[United States]] (as suggested by Art Burton). Other accounts mention [[Grayson County]] or [[Lamar County]] in [[Texas]], [[United States]].
+[[Crawford County, Arkansas]]
 
 ## Date of Death
 January 12, 1910
 
+## Place of Death
+[[Muskogee, Oklahoma]]
+
 ## Education
-Information not provided
+Unknown
 
 ## Spouses Names
-[[Nellie Jennie]] (m. 1864; died 1896), [[Winnie Sumter]] (m. 1900)
+[[Nellie Jennie]] (died in 1896)
+[[Winnie Sumter]] (1900-1910)
 
 ## Children Names
-10 children, names include [[Bennie Reeves]]
+[[Benjamin "Bennie" Reeves]]
+[[Newland Reeves]]
+[[George Reeves]]
+[[Lula Reeves]]
+[[Robert Reeves]]
+[[Sally Reeves]]
+[[Edgar Reeves]]
+[[Bass Reeves Jr.]]
+[[Harriet Reeves]]
+[[Homer Reeves]]
+[[Alice Reeves]]
 
 ## Parents Names
-[[J. M. Stewart]] (Father), [[Pearlalee Stewart]] (Mother)
+[[J. M. Stewart]] (Father)
+[[Pearlalee Stewart]] (Mother)
 
 ## Known Affiliates Names
-[[Isaac Parker]] (Employer, known as the "hanging judge")
+[[William Steele Reeves]], [[Jim Webb]], [[Wiley Bear]], [[John Simmons]], [[Sam Lasly]], [[Frank Buck]], [[George R. Reeves]], [[James F. Fagan]], [[Isaac Parker]], [[W.H.H. Clayton]], [[Paul L. Brady]] (great-nephew), [[Willard Reaves]] (great-great-grandson), [[Ryan Reaves]] (great-great-great-grandson), [[Jordan Reaves]] (great-great-great-grandson)
 
 ## Affiliated Organizations' Names
-[[United States Marshal Service]]
+[[Texas Trail of Fame]], [[United States Marshal Service]]
+
+
+**One of the 1st African-American deputy U.S. Marshals west of the Mississipi River**
+
