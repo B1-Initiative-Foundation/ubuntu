@@ -27,7 +27,7 @@ Unknown
 [[Mary Talbot Hancock]]
 
 ## Known Affiliates Names
-[[William J. Worth]], [[Biddy Mason]], [[Benjamin Ignatius Hayes]], [[Hancock Johnson]], [[Benjamin Davis Wilson]]
+[[William J. Worth]], [[Biddy Mason 1]], [[Benjamin Ignatius Hayes]], [[Hancock Johnson]], [[Benjamin Davis Wilson]]
 
 ## Affiliated Organizations' Names
 [[California Historical Society]], [[Los Angeles City Water Company]], [[Farmers and Merchants Bank]], [[Los Angeles Common Council]]
