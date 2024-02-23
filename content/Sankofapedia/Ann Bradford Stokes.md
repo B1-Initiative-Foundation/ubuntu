@@ -1,33 +1,33 @@
 ## Full Name
-Patricia Era Bath
+Ann Bradford Stokes
 
 ## Date of Birth
-N/A
+1830 (enslaved)
 
 ## Place of Birth
-[[Harlem]], [[New York]], [[United States]]
+[[Ritherford Counth, Tennessee]]
 
 ## Date of Death
-N/A
+1903
 
 ## Place of Death
-N/A
+[[Belknap, Illinois]]
 
 ## Education
-[[Howard University]], (Medical Degree)
+Unknown
 
 ## Spouses Names
-N/A
+[[Gilbert Stokes]]
 
 ## Children Names
-N/A
+Unknown
 
 ## Parents Names
-N/A
+Unknown
 
 ## Known Affiliates Names
-N/A
+Unknown
 
 ## Affiliated Organizations' Names
-[[Charles R Drew University of Medicine and Science]], [[UCLA Jules Stein Eye Institute]]
+[[U.S. Navy]], [[Sisters of the Holy Cross]]
 

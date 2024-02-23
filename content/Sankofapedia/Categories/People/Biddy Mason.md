@@ -21,7 +21,7 @@ Unknown
 
 ## Children Names
 [[Ellen]]
-[[Ann]]
+[[Ann Bradford Stokes]]
 [[Harriet]]
 +3
 

@@ -26,7 +26,7 @@ N/A
 N/A
 
 ## Known Affiliates Names
-[[Jonas Savimbi 1]], [[Jeremias Chitunda]]
+[[Jonas Savimbi]], [[Jeremias Chitunda]]
 
 ## Affiliated Organizations' Names
 [[National Union for the Total Independence of Angola (UNITA)]], [[People’s Movement for the Liberation of Angola (MPLA)]]

@@ -1,39 +1,35 @@
-
-
 ## Full Name
-Matilda Arabella Evans, M.D.
+Matilda Arabella Evans
 
 ## Date of Birth
-May 13, 1872
+May 13, 1866
 
 ## Place of Birth
-[[Aiken]], [[South Carolina]], [[United States]]
+[[Aiken, South Carolina]]
 
 ## Date of Death
 November 17, 1935
 
 ## Place of Death
-[[Columbia]], [[South Carolina]], [[United States]]
+[[Columbia, South Carolina]]
 
 ## Education
-[[Schofield Industrial School]], Aiken, South Carolina
-[[Oberlin College]], B.A., 1891
-[[Woman's Medical College of Pennsylvania]], M.D., 1897
+[[Schofield Industrial School]]
+[[Oberlin College]]
 
 ## Spouses Names
-Matilda Evans never married
+Never married
 
 ## Children Names
-Matilda Evans adopted seven children
+Raised 11 abandoned children
 
 ## Parents Names
-[[Anderson Evans]], [[Harriet Evans]]
+[[Anderson Evans]]
+[[Harriet Evans]]
 
 ## Known Affiliates Names
-[[Martha Schofield]] (Founder of Schofield Industrial School)
+[[Martha Schofield]], [[Sarah Corlies]], [[Alfred Jones]], [[Franklin H. Martin]]
 
 ## Affiliated Organizations' Names
-[[Columbia Clinic Association]] (Founder)
-[[Taylor Lane Hospital and Training School]] (Founder)
-[[Palmetto Medical Association]] (President)
+[[Haines Institute]], [[Woman's Medical College of Pennsylvania]], [[Taylor Lane Hospital and Training School]], [[National League for Nursing]], [[National Medical Association]], [[U.S. Council of National Defense]]
 

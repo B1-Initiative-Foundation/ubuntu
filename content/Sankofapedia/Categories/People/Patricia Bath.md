@@ -1,5 +1,6 @@
+
 ## Full Name
-[[Patricia Era Bath]]
+Patricia Era Bath
 
 ## Date of Birth
 November 4, 1942
@@ -8,31 +9,29 @@ November 4, 1942
 [[Harlem]], [[New York]], [[United States]]
 
 ## Date of Death
-May 30, 2019 (cause of death not specified)
+May 30, 2019
 
 ## Place of Death
 [[San Francisco]], [[California]], [[United States]]
 
 ## Education
-[[Hunter College]], (B.A. in Chemistry)
-[[Howard University]], (M.D.)
+[[Hunter College]], (Bachelor's degree)
+[[Howard University College of Medicine]], (Medical degree)
+[[Columbia University]], (Fellowship in Ophthalmology)
 
 ## Spouses Names
-[[Beny J. Primm]]
+Not applicable
 
 ## Children Names
-[[Eraka Patty Jene Bath]]
+[[Eraka Bath]]
 
 ## Parents Names
-[[Rupert Bath]], [[Gladys Rupert]]
+[[Gladys Bath]], [[Rupert Bath]]
 
 ## Known Affiliates Names
-[[Albert Schweitzer]]
+[[Robert Bernard]]
 
 ## Affiliated Organizations' Names
-[[Harlem Hospital]]
-[[Columbia University]]
-[[New York University]]
-[[University of California, Los Angeles]]
+[[American Institute for the Prevention of Blindness]],
+[[UCLA Jules Stein Eye Institute]],
 [[Charles R. Drew University of Medicine and Science]]
-[[American Institute for the Prevention of Blindness]]

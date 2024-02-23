@@ -8,8 +8,8 @@ June 6, 1966
 [[Afagnan]], [[Togo]]
 
 ## Education
-- Paris Dauphine University, Master's degree in management
-- George Washington University, MBA
+[[Paris Dauphine University]], Master's degree in management
+[[George Washington University]], MBA
 
 ## Spouses Names
 [[Nana Ama Kufuor]]
@@ -24,4 +24,4 @@ Information on children is conflicting; one source mentions 11 children from eig
 [[Kpatcha Gnassingbé]], half-brother
 
 ## Affiliated Organizations' Names
-- [[Rally for the Togolese People]] (RPT), now known as [[Union for the Republic]] (UNIR)
+[[Rally for the Togolese People]] (RPT), now known as [[Union for the Republic]] (UNIR)

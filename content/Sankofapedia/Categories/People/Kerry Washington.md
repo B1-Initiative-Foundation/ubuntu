@@ -1,33 +1,27 @@
 ## Full Name
-Kerry Washington
+Kerry Marisa Washington
 
 ## Date of Birth
 January 31, 1977[4]
 
 ## Place of Birth
-[[The Bronx]], [[New York]], [[United States]][4]
-
-## Date of Death
-N/A
-
-## Place of Death
-N/A
+[[Bronx]], [[New York]], [[United States]][4]
 
 ## Education
-[[George Washington University]], (Bachelor of Arts in Performance Studies)[6]
+[[Spence School]][4]
+[[George Washington University]], (Degree in Performance Studies)[4]
 
 ## Spouses Names
-[[Nnamdi Asomugha]][6]
+[[Nnamdi Asomugha]] (June 24, 2013 - present)[7]
 
 ## Children Names
-[[Isabelle Amarachi Asomugha]], [[Caleb Kelechi Asomugha]][6]
+[[Isabelle Amarachi Asomugha]], [[Caleb Kelechi Asomugha]][7]
 
 ## Parents Names
-[[Valerie Washington]], [[Earl Washington]][6]
+[[Valerie Washington]], [[Earl Washington]][7]
 
 ## Known Affiliates Names
-[[Diahann Carroll]][4]
+[[Jennifer Lopez]], [[Colin Powell (Cousin)]][7]
 
 ## Affiliated Organizations' Names
-[[American Broadcasting Company (ABC)]][6]
-
+[[Boys and Girls Club of America]][7]

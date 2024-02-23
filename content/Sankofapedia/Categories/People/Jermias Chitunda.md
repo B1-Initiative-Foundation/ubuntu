@@ -29,7 +29,7 @@ N/A
 N/A
 
 ## Known Affiliates Names
-[[Jose Eduardo dos Santos]], [[Jonas Savimbi 1]], [[Elias Salupeto Pena]], [[Rafael Picklesimer]]
+[[Jose Eduardo dos Santos]], [[Jonas Savimbi]], [[Elias Salupeto Pena]], [[Rafael Picklesimer]]
 
 ## Affiliated Organizations' Names
 [[National Union for the Total Independence of Angola (UNITA)]]

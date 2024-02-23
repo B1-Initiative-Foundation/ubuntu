@@ -1,30 +1,33 @@
 ## Full Name
-Merlene Joyce Ottey-Page
+Sarah Garland Boyd Jones (nee Sarah Garland Boyd)
 
 ## Date of Birth
-Not provided
+1866
 
 ## Place of Birth
-May 10, 1960
+[[Albemarle County, Virginia]]
 
 ## Date of Death
-Not provided
+May 11, 1905
+
+## Place of Death
+Unknown
 
 ## Education
-Not provided
+Unknown
 
 ## Spouses Names
-Not provided
+[[Miles Berkley Jones]]
 
 ## Children Names
-Not provided
+Unknown
 
 ## Parents Names
-Not provided
+Unknown
 
 ## Known Affiliates Names
-Not provided
+Unknown
 
 ## Affiliated Organizations' Names
-Not provided
+Unknown
 

@@ -11,7 +11,7 @@ July 6, 1981[2]
 [[University of California, Berkeley]], (Degree in Corporate Finance)[11]
 
 ## Spouses Names
-[[Kerry Washington 1]][4]
+[[Kerry Washington]][4]
 
 ## Children Names
 [[Isabelle Amarachi Asomugha]], [[Caleb Kelechi Asomugha]][8]

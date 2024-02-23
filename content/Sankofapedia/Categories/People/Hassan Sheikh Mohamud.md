@@ -5,20 +5,24 @@ Hassan Sheikh Mohamud
 November 29, 1955
 
 ## Place of Birth
-[[Jalalaqsi]], [[Hiran region]], [[Somalia]]
+[[Jalalaqsi]], [[Hiran Province]], [[Somalia]]
 
 ## Education
-- [[Somali National University]], Bachelor of Arts degree in technology (1981)
-- [[Bhopal University]], Master of Arts degree in technical education (1986)
-- [[Eastern Mennonite University]], intensive courses in conflict resolution (2001)
-- [[Barkatullah University]], Doctor of Literature (2015)
+[[Somali National University]], (Bachelor of Arts degree in Technology)
+[[Bhopal University]], (Master's in Technical Education)
+[[Unknown University]], (PhD in State-building)
 
 ## Spouses Names
-- [[Qamar Ali]] (married in 1981)
-- [[Sahro Cumar Xasan]] (married in 1990)
+[[Qamar Ali Omar]], [[Sahro Xasan]] (divorced)
+
+## Children Names
+[[Mohammed Hassan Sheikh Mohamud]] (Eldest son), (Other children's names not found in the search results)
+
+## Parents Names
+(Names not found in the search results)
+
+## Known Affiliates Names
+[[Mohamed Abdullahi Mohamed]]
+
 ## Affiliated Organizations' Names
-- [[Union for Peace and Development Party]], Leader
-- [[Peace and Development Party]], Former Leader
-- [[SIMAD University]], Founder and Principal
-- [[Somali Center for Research and Consultation (CRD)]], Member
-- [[UNICEF]], Former Education Officer
+[[Somali Institute of Management and Administration]], [[Union for Peace and Development Party]], [[Peace and Development Party (before 2016)]]
