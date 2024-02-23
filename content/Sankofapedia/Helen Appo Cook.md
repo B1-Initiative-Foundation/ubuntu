@@ -11,23 +11,24 @@ July 21, 1837
 November 20, 1913
 
 ## Place of Death
-Unknown
+[[Washington, D.C.]]
 
 ## Education
 Unknown
 
 ## Spouses Names
-Unknown
+[[John F. Cook Jr.]]
 
 ## Children Names
 Unknown
 
 ## Parents Names
-Unknown
+[[William Appo]]
+[[Elizabeth Brady Appo]]
 
 ## Known Affiliates Names
-Unknown
+[[Susan B. Anthony]], [[Lucretia Mott]]
 
 ## Affiliated Organizations' Names
-Unknown
+[[Colored Women's League]], [[National Association of Colored Women's Clubs (NACWC)]]
 
