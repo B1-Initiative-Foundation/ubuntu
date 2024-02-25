@@ -1,6 +1,3 @@
----
-title: Welcome to Sankofapedia
----
 ![[TM welcome logo 2 (1778 x 450 px).png]]
 **Sankofapedia** is your premier resource for afrocentric knowledge. We are dedicated to providing a free comprehensive and user-friendly online encyclopedia comprised of quotations, articles, citations, videos, and images. 
 ## About Sankofapedia 
