@@ -34,13 +34,7 @@ Not mentioned in the search results.
 
 #### Parents Names
 
-Not mentioned in the search results, but her parents traded in textiles from France[
-
-3
-
-
-
-](https://en.wikipedia.org/wiki/Catherine_Flon).
+Not mentioned in the search results, but her parents traded in textiles from France
 
 #### Known Affiliates Names
 
