@@ -1,7 +1,7 @@
 ---
 title: Welcome to Sankofapedia
 ---
-![[TM welcome logo 2 (1778 x 450 px).png]]**Sankofapedia** is your premier resource for afrocentric knowledge. We are dedicated to providing a free comprehensive and user-friendly online encyclopedia comprised of quotations, articles, citations, videos, and images. 
+**Sankofapedia** is your premier resource for afrocentric knowledge. We are dedicated to providing a free comprehensive and user-friendly online encyclopedia comprised of quotations, articles, citations, videos, and images. 
 ## About Sankofapedia 
 Sankofapedia is a *non-profit* community-driven platform that offers a wealth of information about afrocentrism, a worldview that centers on the historical perspectives, cultures, and contributions of people with African ancestry. Our objective is to highlight the connection between [[Cultures]], [[Definitions]], [[Events]], [[Geography]], [[Ideologies]], [[News]], [[Organizations]], [[People]], [[Philosophies]], [[Spirituality]], [[Science]], and [[Societies]].  
 ## Explore Our Content 
