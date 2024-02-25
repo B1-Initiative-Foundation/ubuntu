@@ -8,7 +8,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: { provider: 'google', tagId: '<vG-GRBNWJ7SVR>' },
     locale: "en-US",
-    baseUrl: "www.snk",
+    baseUrl: "www.sankofapedia.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
