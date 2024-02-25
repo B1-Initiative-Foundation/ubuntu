@@ -34,13 +34,7 @@ Not mentioned in the search results.
 
 #### Parents Names
 
-His actual birth name and the identity of his true parents are unknown[
-
-2
-
-
-
-](https://guardian.ng/life/jaja-of-opobo-the-slave-boy-who-became-king/).
+His actual birth name and the identity of his true parents are unknown
 
 #### Known Affiliates Names
 
