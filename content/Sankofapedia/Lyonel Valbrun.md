@@ -36,16 +36,4 @@ Not mentioned in the search results.
 
 - Director General for the Haitian Government's [[Ministry of Agriculture]]
 
-Lyonel Valbrun is known for his role as the Director General for the Haitian Government's Ministry of Agriculture. He has been involved in speaking to Haitian farmers alongside USAID Senior Agronomist James Woolley[
-
-1
-
-
-
-](https://www.flickr.com/photos/usaid_images/5095267322). Valbrun has also been indicted and invited to appear before the examining magistrate, Judge Walter W. Voltaire, in the investigation into the assassination of President Jovenel Moïse[
-
-2
-
-
-
-](https://lenouvelliste.com/en/article/245378/lyonel-valbrun-indicted-to-appear-before-examining-magistrate-in-jovenel-moise-assassination-case). He reportedly told authorities that he received "strong pressure" from Martine Moïse to put the president's office at the disposal of then Supreme Court Judge Windelle Coq Thélot
+Lyonel Valbrun is known for his role as the Director General for the Haitian Government's Ministry of Agriculture. He has been involved in speaking to Haitian farmers alongside USAID Senior Agronomist James Woolley. Valbrun has also been indicted and invited to appear before the examining magistrate, Judge Walter W. Voltaire, in the investigation into the assassination of President Jovenel Moïse. He reportedly told authorities that he received "strong pressure" from Martine Moïse to put the president's office at the disposal of then Supreme Court Judge Windelle Coq Thélot
