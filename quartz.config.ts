@@ -6,7 +6,7 @@ const config: QuartzConfig = {
     pageTitle: "Sankofapedia",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: 'google', tagId: '<your-google-tag>' },
+    analytics: { provider: 'google', tagId: '<vG-GRBNWJ7SVR>' },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
