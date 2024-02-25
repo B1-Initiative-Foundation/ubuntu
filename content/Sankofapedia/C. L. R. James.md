@@ -22,29 +22,11 @@ May 31, 1989
 
 #### Education
 
-- Attended [[Queen's Royal College]] in Port of Spain, Trinidad[
-    
-    2
-    
-    
-    
-    ](https://kinginstitute.stanford.edu/james-c-l-r)[
-    
-    5
-    
-    
-    
-    ](https://www.britannica.com/biography/C-L-R-James).
+- Attended [[Queen's Royal College]] in Port of Spain, Trinidad
 
 #### Spouses Names
 
-- [[Selma James]] (Widow at the time of his death)[
-    
-    4
-    
-    
-    
-    ](https://www.blackpast.org/global-african-history/james-c-l-r-1901-1989/).
+- [[Selma James]] (Widow at the time of his death)
 
 #### Children Names
 
@@ -53,13 +35,7 @@ Not mentioned in the search results.
 #### Parents Names
 
 - [[Robert Alexander James]] (Father)
-- [[Ida Elizabeth Rudder]] (Mother)[
-    
-    1
-    
-    
-    
-    ](https://www5.open.ac.uk/research-projects/making-britain/content/c-l-r-james).
+- [[Ida Elizabeth Rudder]] (Mother)
 
 #### Known Affiliates Names
 
