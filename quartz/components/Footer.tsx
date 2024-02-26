@@ -15,8 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">This work is licensed under CC BY-NC-ND 4.0</a> © {year}
+          <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">This work is licensed under CC BY-NC-ND 4.0</a>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
