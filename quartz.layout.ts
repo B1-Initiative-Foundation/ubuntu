@@ -27,12 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
-  filterFn: (node) => {
-    // set containing names of everything you want to filter out
-    const omit = new Set(["B1 INITIATIVE FOUNDATION", "DRAFTS", "hosting"])
-    return !omit.has(node.name.toLowerCase())
-  }})),
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
