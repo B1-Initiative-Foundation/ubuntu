@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     const omit = new Set(["B1 INITIATIVE FOUNDATION", "DRAFTS", "hosting"])
     return !omit.has(node.name.toLowerCase())
   },
-})
+}),
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
