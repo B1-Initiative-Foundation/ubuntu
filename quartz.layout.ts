@@ -43,7 +43,11 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+  filterFn: (node) => {
+    const omit = new Set(["B1 INITIATIVE FOUNDATION", "DRAFTS", "hosting"])
+    return !omit.has(node.name.toLowerCase())
+  }})),
   ],
   right: [],
 }
