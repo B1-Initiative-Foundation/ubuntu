@@ -27,11 +27,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
+    Component.Explorer({
   filterFn: (node) => {
-    const omit = new Set(["B1 INITIATIVE FOUNDATION", "DRAFTS"])
+    const omit = new Set(["drafts"])
     return !omit.has(node.name.toLowerCase())
-  }})),
+  }}),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
