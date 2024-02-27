@@ -1,1 +1,0 @@
-B1 Initiative Foundation leverages technology to empower the African Diaspora through education and information.

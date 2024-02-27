@@ -1,1 +1,0 @@
-An algorithm trained to use [[SANKOFAPEDIA]] to answer questions and help facilitate tasks to empower and educate the diaspora. 
