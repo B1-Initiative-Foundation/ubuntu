@@ -2,7 +2,7 @@
 
 ### Full Name
 
-Oba T'Shaka
+Bill Bradley now Oba T'Shaka
 
 ### Date of Birth
 
