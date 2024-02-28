@@ -1,4 +1,4 @@
-# [[Scholar]]
+
 ## **Khalid Abdul Muhammad**(1948-2001)
 
 ### Black Nationalist, Nation of Islam, New Black Panther Party*
