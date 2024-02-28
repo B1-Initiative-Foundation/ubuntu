@@ -3,7 +3,7 @@ name: Move Markdown Files
 on:
   push:
     paths:
-      - 'ubuntu/content/**/*.md'
+      - 'ubuntu/content/*.md'
 
 jobs:
   move-markdown-files:
