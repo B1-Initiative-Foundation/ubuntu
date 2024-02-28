@@ -15,7 +15,7 @@ March 26, 1944
 [[Arne Næss Jr.]] (Married 1985, Divorced 2000)
 
 ## Children Names
-[[Rhonda Suzanne Silberstein]], [[Tracee Ellis Ross]], [[Chudney Ross]], [[Ross Naess]], [[Evan Ross]]
+[[Rhonda Suzanne Silberstein]], [[Tracee Ellis Ross 1]], [[Chudney Ross]], [[Ross Naess]], [[Evan Ross]]
 
 ## Parents Names
 [[Ernestine Moten Ross]], [[Fred Ross Sr.]]
