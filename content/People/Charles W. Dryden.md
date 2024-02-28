@@ -31,7 +31,7 @@ June 24, 2008
  [[Maud Dryden]] (Mother)
 
 ## Known Affiliates Names
- [[Benjamin O. Davis Jr.]],
+ [[Benjamin O. Davis Jr.]]
 
 ## Affiliated Organizations' Names
  [[Tuskegee Airmen]]
