@@ -6,7 +6,7 @@ Oba T'Shaka
 
 ### Date of Birth
 
-Not available
+Approximately 1940
 
 ### Place of Birth
 
