@@ -18,3 +18,5 @@ jobs:
           git add ubuntu/content/drafts
           git commit -m "Move .md files to drafts folder" || echo "No .md files to move."
           git push
+        env:
+          MY_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PAT }}
