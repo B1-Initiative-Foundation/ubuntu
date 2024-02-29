@@ -7,6 +7,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_PAT }} # Use PAT for checking out the repo
       - name: Move .md Files to Drafts Folder
         run: |
           mkdir -p ubuntu/content/drafts
@@ -17,6 +19,4 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add ubuntu/content/drafts
           git commit -m "Move .md files to drafts folder" || echo "No .md files to move."
-          git push
-        env:
-          MY_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PAT }}
+          git -c http.extraHeader="AUTHORIZATION: basic $(echo -n x-access-token:${{ secrets.GH_PAT }} | base64)" push
