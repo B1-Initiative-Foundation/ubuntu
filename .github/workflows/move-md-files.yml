@@ -1,22 +1,16 @@
 name: Move Markdown Files
-
 on:
   push:
-    paths:
-      - 'ubuntu/content/*.md'
-
 jobs:
   move-markdown-files:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
-
       - name: Move .md Files to Drafts Folder
         run: |
           mkdir -p ubuntu/content/drafts
           find ubuntu/content -maxdepth 1 -name "*.md" ! -name "index.md" -exec mv {} ubuntu/content/drafts \;
-
       - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
