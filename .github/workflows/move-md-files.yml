@@ -12,7 +12,7 @@ jobs:
       - name: Move .md Files to Drafts Folder
         run: |
           mkdir -p ubuntu/content/drafts
-          find ubuntu/content -maxdepth 1 -name "*.md" ! -name "index.md" -exec mv {} ubuntu/content/drafts \;
+          find ubuntu/content -maxdepth 1 name "*.md" ! -name "index.md" -exec mv {} ubuntu/content/drafts \;
       - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
