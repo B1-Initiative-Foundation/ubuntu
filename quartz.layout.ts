@@ -24,14 +24,14 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
     Component.Explorer({
   filterFn: (node) => {
     const omit = new Set(["drafts"])
     return !omit.has(node.name.toLowerCase())
   }}),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Search(),
+    Component.Darkmode(),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
