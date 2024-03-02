@@ -23,11 +23,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.Explorer({
-  filterFn: (node) => {
-    const omit = new Set(["drafts"])
-    return !omit.has(node.name.toLowerCase())
-  }}),
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
@@ -36,6 +31,11 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.Explorer({
+  filterFn: (node) => {
+    const omit = new Set(["drafts"])
+    return !omit.has(node.name.toLowerCase())
+  }}),
   ],
 }
 
