@@ -22,9 +22,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
+    Component.Graph(),
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Graph(),
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer({
