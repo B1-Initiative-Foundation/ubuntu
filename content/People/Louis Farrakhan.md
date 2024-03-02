@@ -1,4 +1,4 @@
-# [[Scholar]]
+
 ## Bio
 ## Biography of Louis Farrakhan, [[Nation of Islam ]]Leader
 
