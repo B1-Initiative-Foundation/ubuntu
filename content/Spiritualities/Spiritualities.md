@@ -1,3 +1,3 @@
 Coming soon!! 
 
-Click here to go back to [[index]](welcome to )
+Click here to go back to [[index]]
