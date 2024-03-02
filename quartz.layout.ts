@@ -24,9 +24,9 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
+    Component.Graph(),
     Component.Search(),
     Component.Darkmode(),
-    Component.Graph(),
     Component.Explorer({
   filterFn: (node) => {
     const omit = new Set(["drafts"])
