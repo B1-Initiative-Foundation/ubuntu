@@ -23,12 +23,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
     Component.Explorer({
   filterFn: (node) => {
     const omit = new Set(["drafts"])
     return !omit.has(node.name.toLowerCase())
   }}),
+    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
