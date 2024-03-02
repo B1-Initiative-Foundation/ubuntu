@@ -3,12 +3,12 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Sankofapedia",
+    pageTitle: "Sankofapedia:Ubuntu",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: 'google', tagId: '<G-GRBNWJ7SVR>' },
+    analytics: { provider: 'google', tagId: '<G-WCYL42MG7F>' },
     locale: "en-US",
-    baseUrl: "www.sankofapedia.org",
+    baseUrl: "ubuntu.sankofapedia.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
