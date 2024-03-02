@@ -31,11 +31,6 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.Explorer({
-  filterFn: (node) => {
-    const omit = new Set(["drafts"])
-    return !omit.has(node.name.toLowerCase())
-  }}),
   ],
 }
 
