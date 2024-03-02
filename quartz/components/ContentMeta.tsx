@@ -12,7 +12,7 @@ interface ContentMetaOptions {
 }
 
 const defaultOptions: ContentMetaOptions = {
-  showReadingTime: true,
+  showReadingTime: false,
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {
@@ -25,9 +25,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: string[] = []
 
-      if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
-      }
+
 
       // Display reading time if enabled
       if (options.showReadingTime) {
