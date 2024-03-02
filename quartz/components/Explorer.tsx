@@ -12,7 +12,7 @@ import { i18n } from "../i18n"
 const defaultOptions = {
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
-  useSavedState: true,
+  useSavedState: false,
   mapFn: (node) => {
     return node
   },
@@ -33,7 +33,7 @@ const defaultOptions = {
       return -1
     }
   },
-  filterFn: (node) => node.name !== "tags",
+  filterFn: (node) => node.name !== "drafts",
   order: ["filter", "map", "sort"],
 } satisfies Options
 
