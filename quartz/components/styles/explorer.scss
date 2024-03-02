@@ -46,7 +46,7 @@ button#explorer {
   list-style: none;
   overflow: hidden;
   max-height: none;
-  transition: max-height 0.25s ease;
+  transition: max-height 0.35s ease;
   margin-top: 0.5rem;
 
   &.collapsed > .overflow::after {
