@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Sankofapedia:Ubuntu",
+    pageTitle: "Ubuntu",
     enableSPA: true,
     enablePopovers: true,
     analytics: { provider: 'google', tagId: '<G-WCYL42MG7F>' },
