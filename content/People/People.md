@@ -1,3 +1,3 @@
 Coming soon!! 
 
-Click here to go back to [[Welcome]]
+Click here to for a full list of articles on 
