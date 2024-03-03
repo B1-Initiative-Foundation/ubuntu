@@ -14,7 +14,26 @@
     margin: 0.5em 0;
     position: relative;
     overflow: hidden;
+
+    & > #global-graph-icon {
+      color: var(--dark);
+      opacity: 0.5;
+      width: 18px;
+      height: 18px;
+      position: absolute;
+      padding: 0.2rem;
+      margin: 0.3rem;
+      top: 0;
+      right: 0;
+      border-radius: 4px;
+      background-color: transparent;
+      transition: background-color 0.5s ease;
+      cursor: pointer;
+      &:hover {
+        background-color: var(--lightgray);
+      }
     }
+  }
 
   & > #global-graph-outer {
     position: fixed;
@@ -25,7 +44,7 @@
     height: 100%;
     backdrop-filter: blur(4px);
     display: none;
-    overflow: hidden;}
+    overflow: hidden;
 
     &.active {
       display: inline-block;
@@ -41,9 +60,11 @@
       left: 50%;
       transform: translate(-50%, -50%);
       height: 60vh;
-      width: 50vw;}
+      width: 50vw;
 
       @media all and (max-width: $fullPageWidth) {
         width: 90%;
       }
     }
+  }
+}
