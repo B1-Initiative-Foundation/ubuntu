@@ -1,3 +1,3 @@
 Coming soon!! 
 
-Click here to for a full list of articles on [People](https://ubuntu.sankofapedia.org/People/) or [[index]]
+Click here to for a full list of articles on [Spiritualities](https://ubuntu.sankofapedia.org/Spiritualities) or [[index]]
