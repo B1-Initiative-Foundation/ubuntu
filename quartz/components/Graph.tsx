@@ -72,8 +72,6 @@ export default ((opts?: GraphOptions) => {
             />
           </svg>
         </div>
-        <div id="global-graph-outer">
-          <div id="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
         </div>
       </div>
     )
