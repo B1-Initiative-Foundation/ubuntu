@@ -14,24 +14,6 @@
     margin: 0.5em 0;
     position: relative;
     overflow: hidden;
-
-    & > #global-graph-icon {
-      color: var(--dark);
-      opacity: 0.5;
-      width: 18px;
-      height: 18px;
-      position: absolute;
-      padding: 0.2rem;
-      margin: 0.3rem;
-      top: 0;
-      right: 0;
-      border-radius: 4px;
-      background-color: transparent;
-      transition: background-color 0.5s ease;
-      cursor: pointer;
-      &:hover {
-        background-color: var(--lightgray);
-      }
     }
   }
 
