@@ -5,7 +5,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Ubuntu",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: { provider: 'google', tagId: '<G-WCYL42MG7F>' },
     locale: "en-US",
     baseUrl: "ubuntu.sankofapedia.org",
