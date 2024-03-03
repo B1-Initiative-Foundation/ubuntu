@@ -20,8 +20,9 @@ export interface D3Config {
 }
 
 interface GraphOptions {
-  localGraph: Partial<D3Config> | undefined}
-
+  localGraph: Partial<D3Config> | undefined
+  globalGraph: Partial<D3Config> | undefined
+}
 const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
@@ -36,11 +37,25 @@ const defaultOptions: GraphOptions = {
     showTags: false,
     removeTags: [],
   },
+  globalGraph: {
+    drag: true,
+    zoom: true,
+    depth: -1,
+    scale: 0.9,
+    repelForce: 0.5,
+    centerForce: 0.3,
+    linkDistance: 30,
+    fontSize: 0.6,
+    opacityScale: 1,
+    showTags: true,
+    removeTags: [],
+  },
 }
 
 export default ((opts?: GraphOptions) => {
   const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
+    const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
       <div class={classNames(displayClass, "graph")}>
         <h3>{i18n(cfg.locale).components.graph.title}</h3>
@@ -72,6 +87,8 @@ export default ((opts?: GraphOptions) => {
             />
           </svg>
         </div>
+        <div id="global-graph-outer">
+          <div id="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
         </div>
       </div>
     )
