@@ -2,7 +2,7 @@
 title: Welcome to Sankofapedia
 ---
 ![[TM welcome logo 2 (1778 x 450 px).png]]
-**Sankofapedia** is a free comprehensive and user-friendly online-encyclopedia comprised of quotations, articles, citations, videos, and images. We are dedicated to providing a premier resource for Afrocentric knowledge. [[Spiritualities/index|index]]
+**Sankofapedia** is a free comprehensive and user-friendly online-encyclopedia comprised of quotations, articles, citations, videos, and images. We are dedicated to providing a premier resource for Afrocentric knowledge.
 ## About Sankofapedia 
 Sankofapedia is a *non-profit* community-driven platform that offers a wealth of information about Afrocentrism, a worldview that centers on the historical perspectives, cultures, and contributions of people with African ancestry. Our objective is to highlight the connection between [Cultures](https://ubuntu.sankofapedia.org/Cultures/), [Definitions](https://ubuntu.sankofapedia.org/Definitions), [Events](https://ubuntu.sankofapedia.org/Events/), [Geography](https://ubuntu.sankofapedia.org/Geography/), [Ideologies](https://ubuntu.sankofapedia.org/Ideologies/), [News](https://ubuntu.sankofapedia.org/News/), [Organizations](https://ubuntu.sankofapedia.org/Organizations/), [People](https://ubuntu.sankofapedia.org/People/), [Philosophies](https://ubuntu.sankofapedia.org/Philosophies/), [Spiritualities](https://ubuntu.sankofapedia.org/Spiritualities/), [Sciences](https://ubuntu.sankofapedia.org/Sciences/), and [Societies](https://ubuntu.sankofapedia.org/Societies/) 
 ## Explore Our Content 
