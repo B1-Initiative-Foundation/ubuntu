@@ -23,18 +23,19 @@ interface GraphOptions {
   localGraph: Partial<D3Config> | undefined
   globalGraph: Partial<D3Config> | undefined
 }
+
 const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
     zoom: true,
     depth: 1,
-    scale: 2.7,
+    scale: 1.1,
     repelForce: 0.5,
     centerForce: 0.3,
     linkDistance: 30,
-    fontSize: 0.4,
-    opacityScale: 2.5,
-    showTags: false,
+    fontSize: 0.6,
+    opacityScale: 1,
+    showTags: true,
     removeTags: [],
   },
   globalGraph: {
