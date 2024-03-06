@@ -10,7 +10,7 @@ export interface SearchOptions {
 }
 
 const defaultOptions: SearchOptions = {
-  enablePreview: true,
+  enablePreview: false,
 }
 
 export default ((userOpts?: Partial<SearchOptions>) => {
