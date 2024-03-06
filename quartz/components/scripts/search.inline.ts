@@ -42,7 +42,7 @@ const p = new DOMParser()
 const fetchContentCache: Map<FullSlug, Element[]> = new Map()
 const contextWindowWords = 10
 const numSearchResults = 8
-const numTagResults = 5
+const numTagResults = 0
 
 const tokenizeTerm = (term: string) => {
   const tokens = term.split(/\s+/).filter((t) => t.trim() !== "")
