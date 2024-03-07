@@ -1,7 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { FullSlug, SimpleSlug, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
-import { byDateAndAlphabetical } from "./PageList"
+import { byAlphabetical } from "./PageList"
 import style from "./styles/recentNotes.scss"
 import { Date, getDate } from "./Date"
 import { GlobalConfiguration } from "../cfg"
@@ -20,7 +20,7 @@ const defaultOptions = (cfg: GlobalConfiguration): Options => ({
   limit: 3,
   linkToMore: false,
   filter: () => true,
-  sort: byDateAndAlphabetical(cfg),
+  sort: byAlphabetical(cfg),
 })
 
 export default ((userOpts?: Partial<Options>) => {
