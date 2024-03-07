@@ -16,7 +16,8 @@ export default (() => {
 
     const iconPath = joinSegments(baseDir, "static/icon.png")
     const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
-    const appleIconPath = joinSegments(baseDir, "static/apple-touch-icon-180x180.png");
+    const appleIconPath = joinSegments(baseDir, "static/apple-touch-icon-180x180.png")
+    const twitterCardImageUrl = appleIconPath;
     return (
       <head>
         <title>{title}</title>
@@ -37,6 +38,11 @@ export default (() => {
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
         <link rel="apple-touch-icon" href={appleIconPath} />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@sankofapedia" /> // Replace with your Twitter handle
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={description} />
+        <meta name="twitter:image" content={twitterCardImageUrl} />
         {css.map((href) => (
           <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve />
         ))}
