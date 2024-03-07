@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">This work is licensed under CC BY-NC-ND 4.0</a>
+          This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"> CC BY-NC-ND 4.0</a>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
