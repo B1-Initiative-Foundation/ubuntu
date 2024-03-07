@@ -17,7 +17,7 @@ export default (() => {
     const iconPath = joinSegments(baseDir, "static/icon.png")
     const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
     const appleIconPath = joinSegments(baseDir, "static/apple-touch-icon-180x180.png")
-    const twitterCardImageUrl = joinSegments(baseDir, "static/apple-touch-icon-180x180.png");
+    const twitterCardImageUrl = `https://github.com/B1-Initiative-Foundation/ubuntu/blob/v4/quartz/static/apple-touch-icon-180x180.png`;
     return (
       <head>
         <title>{title}</title>
