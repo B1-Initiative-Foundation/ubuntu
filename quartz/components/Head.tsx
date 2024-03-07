@@ -17,7 +17,7 @@ export default (() => {
     const iconPath = joinSegments(baseDir, "static/icon.png")
     const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
     const appleIconPath = joinSegments(baseDir, "static/apple-touch-icon-180x180.png")
-    const twitterCardImageUrl = `https://github.com/B1-Initiative-Foundation/ubuntu/blob/v4/quartz/static/apple-touch-icon-180x180.png`;
+    const twitterCardImagePath = joinSegments(baseDir, "static/apple-touch-icon-180x180.png");
     return (
       <head>
         <title>{title}</title>
@@ -42,7 +42,7 @@ export default (() => {
         <meta name="twitter:site" content="@sankofapedia" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content={twitterCardImageUrl} />
+        <meta name="twitter:image" content={twitterCardImagePath} />
         {css.map((href) => (
           <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve />
         ))}
