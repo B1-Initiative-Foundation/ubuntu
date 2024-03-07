@@ -30,7 +30,7 @@ const defaultOptions: GraphOptions = {
     depth: 1,
     scale: 2.5,
     repelForce: 0.6,
-    centerForce: 0.2,
+    centerForce: 0.5,
     linkDistance: 25,
     fontSize: 0.3,
     opacityScale: 2.5,
