@@ -1,3 +1,6 @@
 ---
-title:
+title: Geography
+draft: 
+tags:
+  - Geography
 ---
