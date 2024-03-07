@@ -18,7 +18,6 @@ type Props = {
             <div class="section">
               {page.dates && (
                 <p class="meta">
-                  <Date date={getDate(cfg, page)!} locale={cfg.locale} />
                 </p>
               )}
               <div class="desc">
@@ -46,7 +45,6 @@ type Props = {
       })}
     </ul>
   )
-}
 
 PageList.css = `
 .section h3 {
