@@ -7,12 +7,6 @@ type Props = {
   limit?: number
 } & QuartzComponentProps
 
-export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit }: Props) => {
-  let list = allFiles.sort(byDateAndAlphabetical(cfg))
-  if (limit) {
-    list = list.slice(0, limit)
-  }
-
   return (
     <ul class="section-ul">
       {list.map((page) => {
