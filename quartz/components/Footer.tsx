@@ -19,11 +19,11 @@ export default ((opts?: Options) => {
           <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
             <svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 
-	 width="24px" height="24px" viewBox="2.5 -1.5 32 32" " xml:space="preserve">
+	 width="16px" height="16px" viewBox="5.5 -3.5 64 64" enable-background="new 5.5 -3.5 64 64" xml:space="preserve">
 
 <g>
 
-	<circle fill="#FFFFFF" cx="37.785" cy="28.501" r="28.836"/>
+	<circle fill="white" cx="37.785" cy="28.501" r="28.836"/>
 
 	<path d="M37.441-3.5c8.951,0,16.572,3.125,22.857,9.372c3.008,3.009,5.295,6.448,6.857,10.314
 
