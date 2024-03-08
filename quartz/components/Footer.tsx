@@ -19,7 +19,7 @@ export default ((opts?: Options) => {
           <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
             <svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 
-	 width="10px" height="10px" viewBox="5.5 -3.5 64 64" enable-background="new 5.5 -3.5 64 64" xml:space="preserve">
+	 width="12px" height="12px" viewBox="5.5 -3.5 64 64" enable-background="new 5.5 -3.5 64 64" xml:space="preserve">
 
 <g>
 
@@ -62,7 +62,7 @@ export default ((opts?: Options) => {
 </g>
 
 </svg>
-            CC BY-NC-ND 4.0
+             BY-NC-ND 4.0
           </a>
         </p>
         <ul>
