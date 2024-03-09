@@ -85,6 +85,7 @@ Citations:
 [27] https://www.semanticscholar.org/paper/54531fecf420f1c04eae0d617ae95333d3e3da27
 [28] https://www.semanticscholar.org/paper/898b48a9ff754a76b5a5972137c9ddb52eea060c
 ## Citations
+
 [1] https://www.wesleyan.edu/mlk/posters/malcolmx.html
 [2] https://pacific.edu.ni/education-is-the-passport-to-the-future-for-tomorrow-belongs-to-those-who-prepare-for-it-today-malcolm-x/
 [3] https://collaborativehistory.gse.upenn.edu/stories/malcolm-x-part-i-malcolm-little%E2%80%99s-coming-age
