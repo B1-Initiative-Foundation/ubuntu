@@ -16,7 +16,7 @@ February 21, 1965 (assassination)
 ## Place of Death
 [[New York City]], [[New York]], [[United States]]
 ## Education
-Malcolm X was self-educated during his time in prison, where he engaged in extensive reading and self-study [23]
+Malcolm X was self-educated during his time in prison, where he engaged in extensive reading and self-study [29]
 ## Spouses Names
 [[Betty Shabazz]]
 ## Children Names
@@ -55,7 +55,7 @@ Malcolm X's relationship with [[Martin Luther King Jr.]] and his stance on viole
 
 Recent research has revealed that a famous criticism of Malcolm X by [[Martin Luther King Jr]] was largely falsified, showing that King was more open-minded about Malcolm than previously thought. This discovery challenges the narrative of a deep divide between the two leaders [22].
 
-Citations:
+## Citations:
 [1] https://www.semanticscholar.org/paper/11bb44ca46a9d168d5f64d126ea3a4deb1b146bc
 [2] https://www.semanticscholar.org/paper/0f3f4ea43586df968350d1b5630dca1f0e6a6187
 [3] https://pubmed.ncbi.nlm.nih.gov/19537387/
@@ -84,8 +84,9 @@ Citations:
 [26] https://www.semanticscholar.org/paper/07081b1379600813285bf64e57fe1a80653c6631
 [27] https://www.semanticscholar.org/paper/54531fecf420f1c04eae0d617ae95333d3e3da27
 [28] https://www.semanticscholar.org/paper/898b48a9ff754a76b5a5972137c9ddb52eea060c
-## Citations
+[29] https://www.semanticscholar.org/paper/Malcolm-X%2C-the-Prison-Years%3A-The-Relentless-Pursuit-Tucker/78f14384493ac62639c40105cb82dd466570cbd9
 
+## Additional Sources
 [1] https://www.wesleyan.edu/mlk/posters/malcolmx.html
 [2] https://pacific.edu.ni/education-is-the-passport-to-the-future-for-tomorrow-belongs-to-those-who-prepare-for-it-today-malcolm-x/
 [3] https://collaborativehistory.gse.upenn.edu/stories/malcolm-x-part-i-malcolm-little%E2%80%99s-coming-age
@@ -108,4 +109,3 @@ Citations:
 [20] https://kinginstitute.stanford.edu/malcolm-x
 [21] https://collaborativehistory.gse.upenn.edu/stories/malcolm-x-part-iii-malcolm-x-and-nation-islam
 [22] https://www.theguardian.com/books/2023/may/10/martin-luther-king-jonathan-eig-book-malcolm-x
-[23] https://www.semanticscholar.org/paper/Malcolm-X%2C-the-Prison-Years%3A-The-Relentless-Pursuit-Tucker/78f14384493ac62639c40105cb82dd466570cbd9
