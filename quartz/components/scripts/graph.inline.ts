@@ -131,7 +131,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     .append("svg")
     .attr("width", width)
     .attr("height", height)
-    .attr("viewBox", [-width / 2 / scale, -height / 2 / scale, width / scale, height / scale])
+    .attr("viewBox", [-width / 2 / scale, -height / 1 / scale, width / scale, height / scale])
 
   // draw links between nodes
   const link = svg
