@@ -1,8 +1,8 @@
 ---
 title: Malcolm X
-aliases: 
+aliases:
+  - Malcolm Little
 tags:
-  - "#People"
 ---
 
 ## Full Name
