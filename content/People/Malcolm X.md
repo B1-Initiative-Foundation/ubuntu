@@ -31,7 +31,7 @@ Malcolm X was self-educated during his time in prison, where he engaged in exten
 
 [[Malcolm X]], originally named Malcolm Little, was born on May 19, 1925, in [[Omaha]], [[Nebraska]], to [[Louise Little]] (née Norton), a multilingual seamstress, and [[Earl Little]], a Baptist preacher and handyman. His parents were active followers of [[Marcus Garvey]], with Earl serving as an organizer for Garvey’s [[United Negro Improvement Association]] (UNIA) in the Midwest. The family faced significant racial harassment due to their activism, leading to their relocation across several states. Tragedy struck early in Malcolm's life with the violent death of his father in 1931, believed to be the work of white supremacists, and the subsequent institutionalization of his mother in 1939 due to mental health issues. These events led to Malcolm and his siblings being placed in foster homes or with family members[3].
 
-Malcolm excelled in school but faced discouragement from pursuing his aspirations by a teacher, leading him to drop out and eventually move to [[Boston]] to live with his half-sister, [[Ella]]. In Boston and later in [[Harlem]], [[New York]], he became involved in various illegal activities, which culminated in his imprisonment in 1946 (3)(7)
+Malcolm excelled in school but faced discouragement from pursuing his aspirations by a teacher, leading him to drop out and eventually move to [[Boston]] to live with his half-sister, [[Ella Little-Collins]]. In Boston and later in [[Harlem]], [[New York]], he became involved in various illegal activities, which culminated in his imprisonment in 1946 (3)(7)
 
 In 1958, Malcolm married [[Betty Shabazz]], and the couple had six daughters, including twins born after Malcolm's assassination in 1965[18].
 
