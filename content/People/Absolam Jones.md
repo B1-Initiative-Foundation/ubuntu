@@ -26,7 +26,7 @@ Not specified in the provided sources.
 Not specified in the provided sources.
 
 ## Known Affiliates Names
-- [[Richard Allen]]
+- [[Richard Allen 1]]
 - [[William White]]
 
 ## Affiliated Organizations' Names

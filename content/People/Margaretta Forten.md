@@ -24,7 +24,7 @@ Unknown
 
 ## Parents Names
 [[Charlotte Vandine Forten]]
-[[James Forten]]
+[[James Forten 1]]
 
 ## Known Affiliates Names
 [[Sarah Mapps Douglass]]

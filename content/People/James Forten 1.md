@@ -26,7 +26,7 @@ Not specified in the provided sources.
 [[Thomas Forten]], [[Sarah Forten]]
 
 ## Known Affiliates Names
-- [[Richard Allen]]
+- [[Richard Allen 1]]
 - [[William Wells Brown]]
 - [[Samuel Eli Cornish]]
 - [[Henry Highland Garnet]]

@@ -25,7 +25,7 @@ March 4, 1842
 - [[Sarah Forten]]
 
 ## Known Affiliates Names
-- [[Richard Allen]] (co-founder of the [[Free African Society]])
+- [[Richard Allen 1]] (co-founder of the [[Free African Society]])
 - [[Absalom Jones]] (co-founder of the [[Free African Society]])
 - [[Anthony Benezet]] (educator)
 
@@ -38,7 +38,7 @@ March 4, 1842
 - [[Abolitionist Movement]]
 
 ## Brief Biography
-[[Categories/People/James Forten]], born on September 2, 1766, in [[Philadelphia, Pennsylvania]], was an American abolitionist, businessman, and sailmaker. He was born free to Thomas and [[Sarah Forten]] and attended Anthony Benezet's Quaker School for African American children. Forten began working as a sailmaker at the age of 14 after his father's death. He eventually became a foreman and later bought the sail loft when his boss retired. Forten's sailmaking business became highly profitable, employing both black and white workers. He was a founding member of the [[Free African Society]], established in 1787 under the leadership of [[Richard Allen]] and [[Absalom Jones]]. Forten was also involved in the [[Philadelphia]] [[Female Anti-Slavery Society]], which was the first integrated women's abolitionist organization. He passed away on March 4, 1842[1][2][3][4][5].
+[[Categories/People/James Forten]], born on September 2, 1766, in [[Philadelphia, Pennsylvania]], was an American abolitionist, businessman, and sailmaker. He was born free to Thomas and [[Sarah Forten]] and attended Anthony Benezet's Quaker School for African American children. Forten began working as a sailmaker at the age of 14 after his father's death. He eventually became a foreman and later bought the sail loft when his boss retired. Forten's sailmaking business became highly profitable, employing both black and white workers. He was a founding member of the [[Free African Society]], established in 1787 under the leadership of [[Richard Allen 1]] and [[Absalom Jones]]. Forten was also involved in the [[Philadelphia]] [[Female Anti-Slavery Society]], which was the first integrated women's abolitionist organization. He passed away on March 4, 1842[1][2][3][4][5].
 
 Citations:
 [1] https://www.blackpast.org/african-american-history/forten-james-1766-1842/
