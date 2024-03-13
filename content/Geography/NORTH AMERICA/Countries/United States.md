@@ -1,3 +1,11 @@
+---
+title: United States
+tags:
+  - Country
+aliases:
+  - United States of America
+---
+
 [[Alabama]]
 
 [[Alaska]]
