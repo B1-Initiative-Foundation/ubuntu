@@ -42,7 +42,7 @@ export default (() => {
         <meta name="twitter:site" content="@sankofapedia" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content={twitterCardImageUrl} />
+        <meta name="twitter:image" content="https://uploads-ssl.webflow.com/65b4c1106ea656a157c82823/65f620e3af79783925b0b98e_twitter-og.png"/>
         {css.map((href) => (
           <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve />
         ))}
