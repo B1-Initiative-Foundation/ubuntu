@@ -1,5 +1,5 @@
 ---
-title: Sankofapedia
+title: Ubuntu
 ---
 ![[TM welcome logo 2 (1778 x 450 px).png]]
 **Sankofapedia** is a free comprehensive and user-friendly online-encyclopedia comprised of quotations, articles, citations, videos, and images. We are dedicated to providing a premier resource for Afrocentric knowledge.
