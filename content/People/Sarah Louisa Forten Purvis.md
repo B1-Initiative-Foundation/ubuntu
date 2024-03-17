@@ -26,7 +26,7 @@ Total 8
 
 ## Parents Names
 [[Charlotte Vandine Forten]]
-[[James Forten]]
+[[James Forten 1]]
 
 ## Known Affiliates Names
 [[Harriet Forten Purvis]], [[Margaretta Forten]], [[Robert Purvis]], [[Angelina Weld Grimke]], [[Jean Fagan Yellin]]

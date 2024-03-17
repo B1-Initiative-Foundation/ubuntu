@@ -27,7 +27,7 @@ Unknown
 [[Grace Bustill]]
 
 ## Known Affiliates Names
-[[Cyrus Bustill]], [[Robert Douglass Jr.]], [[James Forten]], [[William Lloyd Garrison]], [[Lucretia Mott]]
+[[Cyrus Bustill]], [[Robert Douglass Jr.]], [[James Forten 1]], [[William Lloyd Garrison]], [[Lucretia Mott]]
 
 ## Affiliated Organizations' Names
 [[Female Medical College of Pennsylvania]], [[Female Literacy Association]], [[Philadelphia Female Anti-Slavery Society (PFASS)]], [[Free African Society]], [[Institute for Colored Youth]] (now [[Cheyney University]]), [[Female Literacy Association]], [[Banneker Institute]]

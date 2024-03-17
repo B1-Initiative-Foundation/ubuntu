@@ -1,4 +1,3 @@
 ---
 title: Spiritualities
-draft: false
 ---

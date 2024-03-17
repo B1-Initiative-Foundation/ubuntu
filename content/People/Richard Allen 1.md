@@ -27,7 +27,7 @@ Not specified in the provided sources.
 
 ## Known Affiliates Names
 - [[Absalom Jones]]
-- [[James Forten]]
+- [[James Forten 1]]
 - [[William White]]
 
 ## Affiliated Organizations' Names
