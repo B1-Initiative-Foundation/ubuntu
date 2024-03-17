@@ -1,7 +1,4 @@
 ---
 title: Societies
-draft: false
-tags:
-  - Societies
 ---
-Coming soon!! 
+In this category you will find articles on civilizations and societies.

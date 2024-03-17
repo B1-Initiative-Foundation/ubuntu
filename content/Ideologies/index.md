@@ -1,5 +1,4 @@
 ---
 title: Ideologies
-tags:
-  - Ideologies
 ---
+In this category you will find articles about ideologies.
