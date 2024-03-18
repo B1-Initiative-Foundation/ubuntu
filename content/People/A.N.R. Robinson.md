@@ -37,9 +37,9 @@ April 9, 2014
 
 ## Personal Life
 
-Arthur Napoleon Raymond Robinson, born on December 16, 1926, in Calder Hall, Tobago, was the son of James Andrew and Isabella Muir Robinson. His early life was spent in Castara, a rural fishing village, where he attended the Castara Methodist Primary School. His father, a strict disciplinarian, served as the headmaster of his school. Despite his athletic endeavors in cricket, football, and track, Robinson excelled academically rather than in sports. His academic prowess earned him a Bowles Scholarship in 1938, allowing him to attend Bishop's High School in Scarborough, Tobago. Although he narrowly missed winning an Island Scholarship for university, he pursued higher education through the University of London's external program, graduating in 1951 with a Bachelor of Laws degree. He furthered his studies at St. John's College, Oxford, where he studied philosophy, politics, and economics, graduating with honors(encyclopedia.com).
+Arthur Napoleon Raymond Robinson, born on December 16, 1926, in Calder Hall, Tobago, was the son of James Andrew and Isabella Muir Robinson. His early life was spent in Castara, a rural fishing village, where he attended the Castara Methodist Primary School. His father, a strict disciplinarian, served as the headmaster of his school. Despite his athletic endeavors in cricket, football, and track, Robinson excelled academically rather than in sports. His academic prowess earned him a Bowles Scholarship in 1938, allowing him to attend Bishop's High School in Scarborough, Tobago. Although he narrowly missed winning an Island Scholarship for university, he pursued higher education through the University of London's external program, graduating in 1951 with a Bachelor of Laws degree. He furthered his studies at [[St. John's College]], [[Oxford]], where he studied philosophy, politics, and economics, graduating with honors [1].
 
-Robinson married Patricia Jean nee Rawlins, an economist, and together they had two children, David and Ann-Margaret. His hobbies included reading, walking, swimming, and music. Patricia Jean passed away in 2009(The Guardian).
+Robinson married Patricia Jean nee Rawlins, an economist, and together they had two children, David and Ann-Margaret. His hobbies included reading, walking, swimming, and music. Patricia Jean passed away in 2009[3].
 
 ## Career
 
