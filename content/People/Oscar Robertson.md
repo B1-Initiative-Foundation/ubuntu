@@ -12,7 +12,7 @@ November 24, 1938[2]
 [[University of Cincinnati]] (Did not graduate)[2]
 
 ## Known Affiliates Names
-[[Jerry West]], [[Bill Russell]], [[Magic Johnson]][2]
+[[Jerry West]], [[People/Bill Russell]], [[Magic Johnson]][2]
 
 ## Affiliated Organizations' Names
 [[Cincinnati Royals]], [[Milwaukee Bucks]][2]
