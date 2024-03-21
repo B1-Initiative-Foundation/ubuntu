@@ -28,7 +28,7 @@ N/A
 [[Julius Erving]], [[Callie Mae Lindsay]][6]
 
 ## Known Affiliates Names
-[[Moses Malone]], [[Larry Bird]], [[Magic Johnson]][6]
+[[Moses Malone]], [[People/Larry Bird]], [[Magic Johnson]][6]
 
 ## Affiliated Organizations' Names
 [[Virginia Squires]], [[New York Nets]], [[Philadelphia 76ers]][6]

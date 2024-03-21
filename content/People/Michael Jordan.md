@@ -28,7 +28,7 @@ University of North Carolina at Chapel Hill[5]
 [[Deloris Jordan]], [[James R. Jordan, Sr.]][5]
 
 ## Known Affiliates Names
-[[Larry Bird]], [[Magic Johnson]][15]
+[[People/Larry Bird]], [[Magic Johnson]][15]
 
 ## Affiliated Organizations' Names
 [[Chicago Bulls]], [[Washington Wizards]], [[Charlotte Hornets]][5]

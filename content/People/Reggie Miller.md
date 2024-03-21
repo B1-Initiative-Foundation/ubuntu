@@ -26,7 +26,7 @@ N/A
 [[Saul Miller]], [[Carrie Miller]][1]
 
 ## Known Affiliates Names
-[[Larry Bird]], [[Michael Jordan]], [[Magic Johnson]][1]
+[[People/Larry Bird]], [[Michael Jordan]], [[Magic Johnson]][1]
 
 ## Affiliated Organizations' Names
 [[Indiana Pacers]], [[NBA]][1]

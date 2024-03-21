@@ -20,7 +20,7 @@ April 16, 1947
 [[Cora Lillian]], [[Ferdinand Lewis Alcindor Sr.]]
 
 ## Known Affiliates Names
-[[John Wooden]], [[Magic Johnson]], [[Larry Bird]]
+[[John Wooden]], [[Magic Johnson]], [[People/Larry Bird]]
 
 ## Affiliated Organizations' Names
 [[Milwaukee Bucks]], [[Los Angeles Lakers]]
